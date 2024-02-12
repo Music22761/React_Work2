@@ -1,0 +1,38 @@
+.divCol {
+  display: flex;
+  flex-direction: column;
+}
+
+.divRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.divMovie {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 400px;
+  padding: 10%;
+}
+
+.con1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  height: auto;
+  padding: 5% 10% 2% 10%;
+}
+
+.subImg{
+  width: 100%;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: gray;
+}

@@ -1,0 +1,70 @@
+{
+  "star_born": [
+    {
+      "id": 1,
+      "name": "Taylor Swift",
+      "image": "../../src/assets/taylor.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi3235759897/1434659607842-pgv4ql-1696544751651.mp4?Expires=1702525558&Signature=cPYruK19N0rIWr9sWp2aj2m3Ngmiym-SKQ7cosiSIQDPf7FNrvEw1CxOkzpGKzZ4oXhJv9wiiWlhbqXdsdTV9n7qHizQJC31OOp-a06xSgVxp3Fgs6haIUpdAQyxIFYxrJ-EAKx4sTm1Q8Ym6vVTI9V3~lBo2RDLUyGT845AcRaMta-4t73Wp9XWzYRdlB~tyJ3i726AmBbQbVwicrAch~hcrq95hXkEIRzvaF2yjg39vWN97n0itj4phhawjEFVAKIgBwR6kSzpLTbfrw84FiP~C-mwXd4E~cchJwtBeuSXK7hh5XRJz4ySIXQnuTVPlrUSwGsg2eCfTnzfb3BDBw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Taylor Alison Swift is a multi-Grammy award-winning American singer/songwriter who, in 2010 at the age of 20, became the youngest artist in history to win the Grammy Award for Album of the Year. In 2011 Swift was named Billboard's Woman of the Year. She also has been named the American Music Awards Artist of the Year, as well as the Entertainer of the Year for both the Country Music Association and the Academy of Country Music, among many other accolades. As of this writing, she is also the top-selling digital artist in music history.",
+      "born": "December 13, 1989"
+    },
+    {
+      "id": 2,
+      "name": "Emma Corrin",
+      "image": "../../src/assets/emma.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi2283194137/1434659607842-pgv4ql-1701128566175.mp4?Expires=1702525903&Signature=otPNZu03Y-7PSkAwFZwXsLNDYQekkSBTh0LjTblMvsPOHl0jJiY3oDn~kASOBaFZ4AlD59qiE5U-FeNeF4LCDFw6Gx7rIeubCUvf5FC32vmN8jXVplmNaOxcl3SzLHF1SYoNURnW64lvmUqqTjsrdiAbVpSLKecIH0n3noVMvisLv-quAtGNuKt~s4GdbM-zpxRjwV8Hcfgbmua46L6WhlpsE-GH7ra-FzIqlp7V~8g3R3L4g23Mqd8BCeaIhJFdND9QhyoC8gCnohyEW6BwIz-M4aX5KJrwV1HWoI8XfRN6N81K38ezYb0OMOBzqhkZ2mU24ffiruvTFCBQqwvGGg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Emma Corrin was born on December 13, 1995 in Royal Tunbridge Wells, Kent, England, UK. Emma is an actor, known for Lady Chatterley's Lover (2022), My Policeman (2022) and The Crown (2016).",
+      "born": "December 13, 1995"
+    },
+    {
+      "id": 3,
+      "name": "Joaquin Phoenix",
+      "image": "../../src/assets/star1_movie1.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi116049689/1434659607842-pgv4ql-1694634506341.mp4?Expires=1702895939&Signature=dmvo7h2ALTtzTK2KdX~IGwG1Wk0arRFKC5-7sxreIVZvP9RXYGcvq2rGDMv4NakUhOufUtgoW5JwhXZOVCNMYlCRDnqLHnRwFvy6-jSYMKMATXVjOgYtYWXjDjWYBMiC9avMeL8rT4~uan3VG~VojBEGCepYIpq6i9cW~yLGxvBg8wQV4zgqXSSL~1cPRmx5EKhn-NTDXKjKY9Ajy0OhvPpAs8qNAGnQdLQ7ZDE8ukxjo3eA6TsYt5gg7NC9RYFozxY2fztPXx~zRqGQW2m3LGt-gaXMdnqjGvAs5lC1u9iByj44VTwYJ9HFAgYjH~45OFI4n0HzdyMTjHK0aC9GJA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Joaquin Phoenix was born Joaquin Rafael Bottom in San Juan, Puerto Rico, to Arlyn (Dunetz) and John Bottom, and is the middle child in a brood of five. His parents, from the continental United States, were then serving as Children of God missionaries. His mother is from a Jewish family from New York, while his father, from California, is of mostly British Isles descent. As a youngster, Joaquin took his cues from older siblings River Phoenix and Rain Phoenix, changing his name to Leaf to match their earthier monikers. When the children were encouraged to develop their creative instincts, he followed their lead into acting. Younger sisters Liberty Phoenix and Summer Phoenix rounded out the talented troupe.",
+      "born": "October 28, 1974"
+    },
+    {
+      "id": 4,
+      "name": "Vanessa Kirby",
+      "image": "../../src/assets/star2_movie1.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi197640473/1434659607842-pgv4ql-1605628952590.mp4?Expires=1702896530&Signature=ibWO9zUK6vPKXgjOUMh~wsg07E9Tf0Dsy1GXLTqhXe4ChtMaKObAWPw3fS6OvZtdX07BpHIRL3rSwbQYv6Ld7UwK5qHKNFuIeNfdaOKCbrS00Nx-meTLcDCV0yhdm4N8k5yBBXBtdwocvBMRXlVEjUhEMs2yx8VS5iOgKb41tKDLZKR-6vTr4Vdyhs03dQk3PUb96u3qhwJv41~d2o-DhTyHBJBF4ANHhmAC2Plx6MKheHVxMPB4VKeEDFEYsX-2BnHkFC87fHWQw9OU2DmvM2MDOdaG4MBD~hkbDKLEOls20YgOrOLID8oni8UAyUk55Y4DlDth~4BPmHRFSjNIGg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Vanessa Kirby is an English stage, TV, and film actress. From 2016 to 2018, Kirby portrayed Princess Margaret in Peter Morgan's Netflix series The Crown, for which she won the BAFTA Award for Best Actress in a Supporting Role in a Television Series in 2018. She starred as Estella in the BBC adaptation of Great Expectations, Joanna in Richard Curtis' romantic comedy About Time and Mission: Impossible - Fallout (2018). She is known mostly for her stage work, having won acclaim and awards for various productions, including Streetcar Named Desire with Ben Foster which transferred to New York; with Variety in 2016 called her",
+      "born": "April 18, 1988"
+    },
+    {
+      "id": 5,
+      "name": "Tahar Rahim",
+      "image": "../../src/assets/star3_movie1.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi2283194137/1434659607842-pgv4ql-1701128566175.mp4?Expires=1702525903&Signature=otPNZu03Y-7PSkAwFZwXsLNDYQekkSBTh0LjTblMvsPOHl0jJiY3oDn~kASOBaFZ4AlD59qiE5U-FeNeF4LCDFw6Gx7rIeubCUvf5FC32vmN8jXVplmNaOxcl3SzLHF1SYoNURnW64lvmUqqTjsrdiAbVpSLKecIH0n3noVMvisLv-quAtGNuKt~s4GdbM-zpxRjwV8Hcfgbmua46L6WhlpsE-GH7ra-FzIqlp7V~8g3R3L4g23Mqd8BCeaIhJFdND9QhyoC8gCnohyEW6BwIz-M4aX5KJrwV1HWoI8XfRN6N81K38ezYb0OMOBzqhkZ2mU24ffiruvTFCBQqwvGGg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Tahar Rahim was born on July 4, 1981 in Belfort, Territoire de Belfort, France. He is an actor, known for A Prophet (2009), The Mauritanian (2021) and The Past (2013). He has been married to Leïla Bekhti since 2010.",
+      "born": "July 4, 1981"
+    }
+  ],
+  "star_movies": [
+    {
+      "id": 1,
+      "name": "Joaquin Phoenix",
+      "image": "../../src/assets/star1_movie1.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi116049689/1434659607842-pgv4ql-1694634506341.mp4?Expires=1702895939&Signature=dmvo7h2ALTtzTK2KdX~IGwG1Wk0arRFKC5-7sxreIVZvP9RXYGcvq2rGDMv4NakUhOufUtgoW5JwhXZOVCNMYlCRDnqLHnRwFvy6-jSYMKMATXVjOgYtYWXjDjWYBMiC9avMeL8rT4~uan3VG~VojBEGCepYIpq6i9cW~yLGxvBg8wQV4zgqXSSL~1cPRmx5EKhn-NTDXKjKY9Ajy0OhvPpAs8qNAGnQdLQ7ZDE8ukxjo3eA6TsYt5gg7NC9RYFozxY2fztPXx~zRqGQW2m3LGt-gaXMdnqjGvAs5lC1u9iByj44VTwYJ9HFAgYjH~45OFI4n0HzdyMTjHK0aC9GJA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Joaquin Phoenix was born Joaquin Rafael Bottom in San Juan, Puerto Rico, to Arlyn (Dunetz) and John Bottom, and is the middle child in a brood of five. His parents, from the continental United States, were then serving as Children of God missionaries. His mother is from a Jewish family from New York, while his father, from California, is of mostly British Isles descent. As a youngster, Joaquin took his cues from older siblings River Phoenix and Rain Phoenix, changing his name to Leaf to match their earthier monikers. When the children were encouraged to develop their creative instincts, he followed their lead into acting. Younger sisters Liberty Phoenix and Summer Phoenix rounded out the talented troupe.",
+      "born": "October 28, 1974"
+    },
+    {
+      "id": 2,
+      "name": "Vanessa Kirby",
+      "image": "../../src/assets/star2_movie1.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi197640473/1434659607842-pgv4ql-1605628952590.mp4?Expires=1702896530&Signature=ibWO9zUK6vPKXgjOUMh~wsg07E9Tf0Dsy1GXLTqhXe4ChtMaKObAWPw3fS6OvZtdX07BpHIRL3rSwbQYv6Ld7UwK5qHKNFuIeNfdaOKCbrS00Nx-meTLcDCV0yhdm4N8k5yBBXBtdwocvBMRXlVEjUhEMs2yx8VS5iOgKb41tKDLZKR-6vTr4Vdyhs03dQk3PUb96u3qhwJv41~d2o-DhTyHBJBF4ANHhmAC2Plx6MKheHVxMPB4VKeEDFEYsX-2BnHkFC87fHWQw9OU2DmvM2MDOdaG4MBD~hkbDKLEOls20YgOrOLID8oni8UAyUk55Y4DlDth~4BPmHRFSjNIGg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Vanessa Kirby is an English stage, TV, and film actress. From 2016 to 2018, Kirby portrayed Princess Margaret in Peter Morgan's Netflix series The Crown, for which she won the BAFTA Award for Best Actress in a Supporting Role in a Television Series in 2018. She starred as Estella in the BBC adaptation of Great Expectations, Joanna in Richard Curtis' romantic comedy About Time and Mission: Impossible - Fallout (2018). She is known mostly for her stage work, having won acclaim and awards for various productions, including Streetcar Named Desire with Ben Foster which transferred to New York; with Variety in 2016 called her",
+      "born": "April 18, 1988"
+    },
+    {
+      "id": 3,
+      "name": "Tahar Rahim",
+      "image": "../../src/assets/star3_movie1.jpg",
+      "video": "https://imdb-video.media-imdb.com/vi2283194137/1434659607842-pgv4ql-1701128566175.mp4?Expires=1702525903&Signature=otPNZu03Y-7PSkAwFZwXsLNDYQekkSBTh0LjTblMvsPOHl0jJiY3oDn~kASOBaFZ4AlD59qiE5U-FeNeF4LCDFw6Gx7rIeubCUvf5FC32vmN8jXVplmNaOxcl3SzLHF1SYoNURnW64lvmUqqTjsrdiAbVpSLKecIH0n3noVMvisLv-quAtGNuKt~s4GdbM-zpxRjwV8Hcfgbmua46L6WhlpsE-GH7ra-FzIqlp7V~8g3R3L4g23Mqd8BCeaIhJFdND9QhyoC8gCnohyEW6BwIz-M4aX5KJrwV1HWoI8XfRN6N81K38ezYb0OMOBzqhkZ2mU24ffiruvTFCBQqwvGGg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Tahar Rahim was born on July 4, 1981 in Belfort, Territoire de Belfort, France. He is an actor, known for A Prophet (2009), The Mauritanian (2021) and The Past (2013). He has been married to Leïla Bekhti since 2010.",
+      "born": "July 4, 1981"
+    }
+  ]
+}
