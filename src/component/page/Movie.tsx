@@ -64,7 +64,7 @@ function MoviePage() {
                   height: "50%",
                   backgroundColor: "gray",
                   display: "flex",
-                  flexDirection:"column",
+                  flexDirection: "column",
                   alignItems: "center",
                   justifyContent: "center",
                 }}
@@ -79,7 +79,7 @@ function MoviePage() {
                   height: "50%",
                   backgroundColor: "gray",
                   display: "flex",
-                  flexDirection:"column",
+                  flexDirection: "column",
                   alignItems: "center",
                   justifyContent: "center",
                 }}
@@ -96,32 +96,40 @@ function MoviePage() {
             <div className="divCol" style={{ width: "70%" }}>
               <Divider></Divider>
               <h4>Director </h4>
-              {DataMovies.movies[index - 1].director}
+              <div style={{ display: "flex", flexDirection: "row" }}>
+                {DataMovies.movies[index - 1].director}
+                {" - "}
+              </div>
               <Divider></Divider>
               <h4>Writer </h4>
               {/* {DataMovies.movies[index - 1].writer[0].name} */}
-              {DataMovies.movies[index - 1].writer.map((writer) => (
-                <>
-                  {console.log("Writer ", writer)}
-                  <div>{writer.name}</div>
-                </>
-              ))}
+              <div style={{ display: "flex", flexDirection: "row" }}>
+                {DataMovies.movies[index - 1].writer.map((writer) => (
+                  <>
+                    {console.log("Writer ", writer)}
+                    <div>{writer.name}</div>
+                    {" - "}
+                  </>
+                ))}
+              </div>
               <Divider></Divider>
               <h4>Star</h4>
-              {DataMovies.movies[index - 1].star.map((star,i=0) => (
-                <>
-                  {console.log("Star ", star)}
-                  {console.log("Star ID : ", DataStars.star_movies[i++].id)}
-                  <div>
-                    <Link to={"/movie/starMovie/"+(i++)}>{star.name + " - "} </Link>
-                    {/* {DataStars.star_movies.map((starId)=>(
+              <div style={{ display: "flex", flexDirection: "row" }}>
+                {DataMovies.movies[index - 1].star.map((star, i = 0) => (
+                  <>
+                    {console.log("Star ", star)}
+                    {console.log("Star ID : ", DataStars.star_movies[i++].id)}
+                    <div>
+                      <Link to={"/movie/starMovie/" + i++}>{star.name}</Link>
+                      {" - "}
+                      {/* {DataStars.star_movies.map((starId)=>(
                       <Link to={"starMovie/"+starId.id}>{starId.id + " - "}</Link> 
 
                     ))} */}
-
-                  </div>
-                </>
-              ))}
+                    </div>
+                  </>
+                ))}
+              </div>
               <Divider></Divider>
               <h4>IMDbPro</h4>
             </div>

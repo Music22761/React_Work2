@@ -39,7 +39,7 @@ function MediaCard(props: MediaCardProps) {
 
   return (
     <>
-      <Card sx={{ width:'200px',height:'500px' }}>
+      <Card sx={{ width:'200px',height:'500px',textAlign:'center'}}>
         <Link to={"/movie/"+props.id}>
           <CardMedia
             sx={{ height: '300px' }}
